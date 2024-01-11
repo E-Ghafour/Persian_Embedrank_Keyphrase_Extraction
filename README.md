@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a Persian keyphrase extraction system using the EmbedRank method. The EmbedRank algorithm has been adapted and customized for the Persian language. The system includes trained models for Persian sentence embedding and part-of-speech (POS) tagging, utilizing the Hazm library.
+This repository contains the implementation of a Persian keyphrase extraction system using the [EmbedRank method](https://github.com/swisscom/ai-research-keyphrase-extraction). The EmbedRank algorithm has been adapted and customized for the Persian language. The system includes trained models for Persian sentence embedding and part-of-speech (POS) tagging, utilizing the Hazm library.
 
 ![sample of keyphrase output](keyword_extraction.png)
 
